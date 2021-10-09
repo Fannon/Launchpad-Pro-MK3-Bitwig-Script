@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="launchpad-x" />
+        <module name="launchpad-pro-mk3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="launchpad-x" target="1.8" />
+      <module name="launchpad-pro-mk3" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

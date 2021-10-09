@@ -1,6 +1,10 @@
-# Jengamon's Launchpad X for Bitwig 
+# Launchpad Pro Mk3 Bitwig Extension 
 
-![Java CI](https://github.com/Jengamon/Launchpad-X-Bitwig-Script/workflows/Java%20CI/badge.svg?branch=api-10)
+## Disclaimer
+
+> This is a fork of https://github.com/Jengamon/Launchpad-X-Bitwig-Script
+> It is a WIP try to adopt it for the Launchpad Pro Mk3
+> All credits should go to Jengamon.
 
 ## Why not DrivenByMoss?
 
@@ -29,7 +33,7 @@ exciting time again.
 
 ## Installation
 
-Simply download the desired version of "LaunchpadX.bwextension" from the Releases page,
+Simply download the desired version of "LaunchpadProMk3.bwextension" from the Releases page,
 then put it in your Bitwig "Extensions" folder.
 
 Or you can build it yourself (and at the bleeding edge) by downloading the repository

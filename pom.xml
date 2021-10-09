@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>io.github.jengamon.novation</groupId>
-	<artifactId>launchpad-x</artifactId>
+	<groupId>io.github.fannon.novation</groupId>
+	<artifactId>launchpad-pro-mk3</artifactId>
 	<packaging>jar</packaging>
-	<name>Launchpad X</name>
-	<version>1.2</version>
+	<name>Launchpad Pro Mk3</name>
+	<version>0.1</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +24,7 @@
 		<dependency>
 			<groupId>com.bitwig</groupId>
 			<artifactId>extension-api</artifactId>
-			<version>12</version>
+			<version>14</version>
 		</dependency>
 	</dependencies>
 
@@ -44,7 +44,7 @@
 						</goals>
 						<configuration>
 							<sourceFile>${project.build.directory}/${project.build.finalName}.jar</sourceFile>
-							<destinationFile>${project.build.directory}/LaunchpadX.bwextension</destinationFile>
+							<destinationFile>${project.build.directory}/LaunchpadProMk3.bwextension</destinationFile>
 						</configuration>
 					</execution>
 				</executions>

@@ -18,4 +18,4 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Launchpad Extension
-          path: ./target/LaunchpadX.bwextension
+          path: ./target/LaunchpadProMk3.bwextension
